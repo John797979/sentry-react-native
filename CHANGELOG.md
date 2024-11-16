@@ -44,9 +44,9 @@
 
 ### Dependencies
 
-- Bump JavaScript SDK from v8.34.0 to v8.37.1 ([#4196](https://github.com/getsentry/sentry-react-native/pull/4196), [#4222](https://github.com/getsentry/sentry-react-native/pull/4222), [#4236](https://github.com/getsentry/sentry-react-native/pull/4236))
-  - [changelog](https://github.com/getsentry/sentry-javascript/blob/develop/CHANGELOG.md#8371)
-  - [diff](https://github.com/getsentry/sentry-javascript/compare/8.34.0...8.37.1)
+- Bump JavaScript SDK from v8.34.0 to v8.38.0 ([#4196](https://github.com/getsentry/sentry-react-native/pull/4196), [#4222](https://github.com/getsentry/sentry-react-native/pull/4222), [#4236](https://github.com/getsentry/sentry-react-native/pull/4236), [#4267](https://github.com/getsentry/sentry-react-native/pull/4267))
+  - [changelog](https://github.com/getsentry/sentry-javascript/blob/develop/CHANGELOG.md#8380)
+  - [diff](https://github.com/getsentry/sentry-javascript/compare/8.34.0...8.38.0)
 - Bump CLI from v2.37.0 to v2.38.2 ([#4200](https://github.com/getsentry/sentry-react-native/pull/4200), [#4220](https://github.com/getsentry/sentry-react-native/pull/4220), [#4231](https://github.com/getsentry/sentry-react-native/pull/4231))
   - [changelog](https://github.com/getsentry/sentry-cli/blob/master/CHANGELOG.md#2382)
   - [diff](https://github.com/getsentry/sentry-cli/compare/2.37.0...2.38.2)
